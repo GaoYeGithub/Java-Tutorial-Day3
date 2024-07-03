@@ -27,6 +27,7 @@ public class Main {
       System.out.println("Good day.");
     } else {
       System.out.println("Good evening.");
+    }
   }
 }
 ```
